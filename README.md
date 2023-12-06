@@ -1,4 +1,4 @@
-![<div align="center" id="top"> 
+<div align="center" id="top"> 
 </div>
 
 <h1 align="center">MySql</h1>
