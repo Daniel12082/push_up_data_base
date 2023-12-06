@@ -37,7 +37,17 @@ $ git clone https://github.com/daniel12082/push_up_data_base
 
 # Access
 $ cd push_up_data_base
+
+#First Diagram 
+![Alt text](logico.png)
+
+#Second Diagram
+![Alt text](fisico.png)
+
+#Third Diagram
+![Alt text](Relacional.png)
 ```
+
 
 ## :open_book: Explain ##
 
